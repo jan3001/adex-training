@@ -34,9 +34,9 @@ gsk-adex-training/
 ## 🔍 Script Breakdown
 
 ```r
-####------------------------------ GSK Header ------------------------------####
+####------------------------------ Header ------------------------------####
 # Program: RCC_202203_aas99498
-# Developer: aas99498 / Anjana Suresh
+# Developer: Anjana Suresh
 # Date: 09-Mar-2022
 # Purpose: R Code Corners March 2022 (ADEX dataset derivation)
 #-------------------------------------------------------------------------------
